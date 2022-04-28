@@ -3,7 +3,7 @@
 # Residência de SW Mackenzie 2022
 Projeto efetuado por alunos da mackenzie sob a orientação de professores.
 
-*Documentação aprofundada pode ser encontrada na **[WIKI](https://github.com/Infravermlho/CodeNeutralWikiTemplate/wiki)***
+*Documentação aprofundada pode ser encontrada na **[WIKI](https://github.com/gamartins013/MackLeaps.wiki.git)***
 
 # Descrição
 descrição descrição
